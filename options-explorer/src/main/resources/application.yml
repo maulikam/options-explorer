@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: options-explorer
+server:
+  port: 10083
